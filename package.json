@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tinys/webpackes#readme",
   "devDependencies": {
-    "webpack": "2.1.0-beta.27",
+    "webpack": "5.94.0",
     "ansi-html": "0.0.6",
     "autoprefixer": "^6.7.7",
     "autoprefixer-loader": "^3.2.0",
